@@ -1,0 +1,10 @@
+langcode: de
+status: true
+dependencies:
+  module:
+    - comment
+id: comment_save_action
+label: 'Kommentar speichern'
+type: comment
+plugin: comment_save_action
+configuration: {  }

@@ -1,0 +1,10 @@
+langcode: de
+status: true
+dependencies:
+  module:
+    - node
+id: node_make_unsticky_action
+label: 'Hervorhebung zurücknehmen'
+type: node
+plugin: node_make_unsticky_action
+configuration: {  }

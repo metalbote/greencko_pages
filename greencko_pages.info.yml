@@ -1,0 +1,20 @@
+name: Pages
+description: 'All contenttype related things'
+type: module
+core: 8.x
+dependencies:
+  - comment
+  - field
+  - greencko_media
+  - image
+  - node
+  - path
+  - rdf
+  - search
+  - system
+  - taxonomy
+  - text
+  - user
+  - views
+version: 8.x-1.0
+package: 'Greencko Drupal Distribution'

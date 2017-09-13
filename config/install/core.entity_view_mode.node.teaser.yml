@@ -1,0 +1,9 @@
+langcode: de
+status: true
+dependencies:
+  module:
+    - node
+id: node.teaser
+label: Anrisstext
+targetEntityType: node
+cache: true

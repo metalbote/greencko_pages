@@ -1,0 +1,10 @@
+langcode: de
+status: true
+dependencies:
+  module:
+    - node
+id: node_unpromote_action
+label: 'Inhalt von der Startseite entfernen'
+type: node
+plugin: node_unpromote_action
+configuration: {  }
