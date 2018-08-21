@@ -1,9 +1,0 @@
-langcode: de
-status: false
-dependencies:
-  module:
-    - node
-id: node.search_result
-label: 'Suchbegriff in den Suchergebnissen hervorheben.'
-targetEntityType: node
-cache: true

@@ -1,20 +1,23 @@
-name: Pages
-description: 'All contenttype related things'
+name: 'Greencko Pages'
+description: 'Provide Pages related configuration.'
 type: module
 core: 8.x
+version: 8.x-6.x-dev
+package: Greencko
 dependencies:
-  - comment
-  - field
-  - greencko_media
-  - image
+  - ds
+  - ds_extras
+  - entity_reference_revisions
+  - field_group
+  - field_layout
+  - layout_discovery
+  - link
+  - metatag
   - node
-  - path
-  - rdf
-  - search
-  - system
+  - smart_trim
+  - statistics
   - taxonomy
   - text
   - user
-  - views
-version: 8.x-1.0
-package: 'Greencko Drupal Distribution'
+  - yoast_seo
+  - greencko_core

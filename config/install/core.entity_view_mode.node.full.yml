@@ -1,9 +1,0 @@
-langcode: de
-status: false
-dependencies:
-  module:
-    - node
-id: node.full
-label: Vollständiger-Inhalt
-targetEntityType: node
-cache: true

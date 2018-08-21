@@ -1,9 +1,0 @@
-langcode: de
-status: false
-dependencies:
-  module:
-    - comment
-id: comment.full
-label: 'Kompletter Kommentar'
-targetEntityType: comment
-cache: true
